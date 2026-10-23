@@ -5,7 +5,7 @@ android {
     compileSdk 35
     defaultConfig {
         applicationId 'com.microsoft.vscode'
-        minSdk 26
+        minSdk 27
         targetSdk 28
         versionCode 1
         versionName '1.0'
